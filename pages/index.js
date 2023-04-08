@@ -10,9 +10,9 @@ export default function About() {
       </Head>
       <h1 className="text-center text-7xl pb-3">🎨</h1>
       <p className="pb-5 text-lg">
-        <strong>Inpainting</strong> is a process where missing parts of an
-        artwork are filled in to present a complete image. This{" "}
-        <a className="underline" href="https://github.com/zeke/inpainter">
+        <strong>AI Picasso</strong> is a modern digital artist with mastery level skill in every conceivable art medium.
+        Here we have a demonstration... This{" "}
+        <a className="underline" href="https://github.com/seandylan1982/inpainter-stable-diffusion">
           open-source demo
         </a>{" "}
         uses the{" "}
@@ -26,7 +26,7 @@ export default function About() {
         <a className="underline" href="https://replicate.com">
           Replicate&apos;s API
         </a>{" "}
-        to inpaint images right in your browser.
+        to AI Picasso images right in your browser.
       </p>
 
       <Link href="/paint">
@@ -35,7 +35,7 @@ export default function About() {
         </video>
       </Link>
 
-      {/* <ol className="list-decimal pl-5">
+      <ol className="list-decimal pl-5">
         <li className="mb-2">
           Enter a text prompt to generate an image, or upload your own starting
           image.
@@ -45,13 +45,13 @@ export default function About() {
         </li>
         <li className="mb-2">
           Refine your text prompt (or leave it untouched) and let the model
-          generate a new inpainted image.
+          generate a new AI Picasso image.
         </li>
-      </ol> */}
+      </ol>
 
       <Link href="/paint">
         <a className="py-3 block text-center bg-black text-white rounded-md mt-10">
-          Start painting
+          Be creative and specific!
         </a>
       </Link>
     </div>
