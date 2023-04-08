@@ -8,7 +8,7 @@ export default function About() {
         <title>Inpainting with Stable Diffusion &amp; Replicate</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
-      {/* <h1 className="text-center text-7xl pb-3">🎨</h1> */}
+      <h1 className="text-center text-7xl pb-3">🎨</h1>
       <p className="pb-5 text-lg">
         <strong>Inpainting</strong> is a process where missing parts of an
         artwork are filled in to present a complete image. This{" "}
