@@ -28,7 +28,6 @@ Prerequisites:
 Set your Replicate API token in your environment:
 
 ```
-REPLICATE_API_TOKEN=fc9d3dc205ad9abe5a6f7715584894b4d363a717
 ```
 
 Then install dependencies and run the server:
