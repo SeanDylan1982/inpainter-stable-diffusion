@@ -1,3 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/79e7fa0a-64ce-4784-956e-636d946e18d7/deploy-status)](https://app.netlify.com/sites/ai-picasso/deploys)
+
+https://ai-picasso.netlify.app
+
 # 🎨 Inpainter
 
 A web GUI for inpainting with [Stable Diffusion](https://replicate.com/stability-ai/stable-diffusion) using the Replicate API.
@@ -24,15 +28,17 @@ Prerequisites:
 1. Recent version of Node.js
 2. [Replicate API token](https://replicate.com/account)
 
-
 Set your Replicate API token in your environment:
 
+<<<<<<< HEAD
 ```
 ```
 
+=======
+>>>>>>> 09ddf7802926b2f9ce3fd913eab1b758f85fbf62
 Then install dependencies and run the server:
 
-```sh
+```
 npm install
 npm run dev
 ```
